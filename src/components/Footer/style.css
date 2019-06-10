@@ -1,0 +1,27 @@
+.footer {
+  /* min-height: 100%; */
+  min-width: 100%;
+  background: #411b80;
+  /* background: rgb(118, 64, 134); */
+  position: relative;
+  padding: 0% 0% 10% 0%;
+  color: white;
+  box-shadow: 4px -4px 10px 0px rgb(56, 56, 56);
+
+}
+
+.footer span {
+  position: sticky;
+  /* bottom: 0;
+  left: 100; */
+  /* right: 100; */
+  padding: 10px 10px 10px 10px;
+  /* background: #411b80; */
+  
+}
+
+
+.React {
+  width: 50px;
+ 
+}

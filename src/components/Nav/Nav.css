@@ -1,0 +1,30 @@
+nav {
+  width: 100%;
+  font-size: 25px;
+  color: #fff;
+  margin-bottom: 20px;
+  background-color: #411b80;
+  height: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  box-shadow: 4px 4px 10px rgb(56, 56, 56);
+}
+
+a {
+  color: #ffffff;
+}
+
+a:hover {
+  color: #a088c5;
+  text-decoration: none;
+}
+
+nav li {
+  display: inline-block;
+  padding: 5px 0;
+  width: 25%;
+  text-align: center;
+}
+
+ul {
+  padding-left: 0px;
+}
